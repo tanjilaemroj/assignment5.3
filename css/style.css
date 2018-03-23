@@ -1,0 +1,47 @@
+{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 10px;
+    background-color: #96c3fc;
+}
+.header_height{
+    height: 60px;
+     border: 2px solid red;
+    margin: 20px 0px;
+     background-color: #c9e0ff;        
+}
+.hero_height{
+    height: 60px;
+    margin-top: 20px;
+    
+   border: 2px solid red;
+    background-color: #c9e0ff;
+}
+
+ .body_height1{
+    min-height: 60px;
+    margin-top: 20px;
+    border: 2px solid red;
+    background-color: #c9e0ff;
+    
+    
+}
+.body_height2{
+    height: 70px;
+    margin-top: 10px;
+    background-color: #c9e0ff; 
+}
+.body_height3{
+    height: 150px;
+    margin-top: 20px;
+   border: 2px solid red;
+   background-color: #c9e0ff;
+    margin-bottom: 10px;
+}
+
+.footer_contant{
+    min-height: 100px;
+    margin: 10px 0;
+}   
